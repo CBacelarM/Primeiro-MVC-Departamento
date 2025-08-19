@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mercatum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8464ed3bcc2238bf62b5c4e1849145db716b6609")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mercatum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mercatum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
